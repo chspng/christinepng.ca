@@ -1,0 +1,12 @@
+# Site settings
+title: Christine P'ng
+email: bychristinepng@gmail.com
+description: Christine P'ng> # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: http://christinepng.ca  # the base hostname & protocol for your site
+
+linkedin_username: 
+github_username:
+
+# Build settings
+markdown: kramdown
