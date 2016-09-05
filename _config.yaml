@@ -1,3 +1,0 @@
-highlighter: pygments
-
-exclude: ['README.md', 'Gemfile', 'notes.txt']

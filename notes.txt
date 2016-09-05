@@ -1,2 +1,0 @@
-Run dev server: bundle exec jekyll serve
-Update gems: bundle update
