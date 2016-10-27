@@ -3,3 +3,38 @@
 p{
   font-family: "Source Sans Pro", sans-serif;
 }
+
+#about {
+  padding: 80px 0;
+}
+#about .block h2 {
+  padding-top: 35px;
+  line-height: 27px;
+  margin: 0;
+}
+#about .block p {
+  color: #7B7B7B;
+  padding-top: 20px;
+}
+#about .block img {
+  padding-left: 50px;
+  width: 80%;
+}
+#about .section-title {
+  margin-bottom: 0px;
+}
+#about .section-title p {
+  padding-top: 20px;
+}
+
+#bio{
+	background-color: #f2f2f2; 
+}
+#bio .block img {
+  width: 60%;
+}
+
+/*.service-box{
+	padding-left: 0px;
+	padding-right: 0px;
+}*/
