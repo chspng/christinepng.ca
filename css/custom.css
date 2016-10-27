@@ -1,7 +1,17 @@
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC:700);
 
 p{
   font-family: "Source Sans Pro", sans-serif;
+}
+
+#mrp{
+	background-color: #3F3F57;
+}
+
+#mrp-header{
+	font-family: "Amatic SC", sans-serif;	
+	font-size: 400%;
 }
 
 #about {
