@@ -1,17 +1,25 @@
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300);
-@import url(https://fonts.googleapis.com/css?family=Amatic+SC:700);
+@import url(https://fonts.googleapis.com/css?family=Cormorant+Garamond:300);
 
 p{
   font-family: "Source Sans Pro", sans-serif;
 }
 
 #mrp{
-	background-color: #3F3F57;
+	background-color: #454545;
 }
 
 #mrp-header{
-	font-family: "Amatic SC", sans-serif;	
-	font-size: 400%;
+	font-family: "Cormorant Garamond", sans-serif;	
+	font-size: 300%;
+  letter-spacing: 1px;
+}
+
+#mrp-body{
+  font-family: "Cormorant Garamond", sans-serif;  
+  font-size: 150%;
+  letter-spacing: 0.5px;
+  color: #bdbdbd;
 }
 
 #foci{
