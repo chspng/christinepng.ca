@@ -14,6 +14,14 @@ p{
 	font-size: 400%;
 }
 
+#foci{
+/*	background-color: #f2f2f2;
+*/}
+
+#portfolio{
+  /*background-color: #f2f2f2;*/
+}
+
 #about {
   padding: 80px 0;
 }
@@ -39,9 +47,12 @@ p{
 
 #bio{
 	background-color: #f2f2f2; 
+	background-image: url("../img/bio-img.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
 }
 #bio .block img {
-  width: 60%;
+  width: 90%;
 }
 
 /*.service-box{
