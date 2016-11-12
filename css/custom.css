@@ -1,8 +1,21 @@
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300, 600);
 @import url(https://fonts.googleapis.com/css?family=Cormorant+Garamond:300);
 
 p{
   font-family: "Source Sans Pro", sans-serif;
+  font-weight: 300;
+}
+
+.portfolio-header{
+  background-color: #f2f2f2;
+}
+
+#process{
+  background-color: #f2f2f2;
+}
+
+.portfolio-info-header{
+  font-weight: 600;
 }
 
 #mrp{
