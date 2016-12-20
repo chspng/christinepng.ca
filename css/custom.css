@@ -27,6 +27,10 @@ p{
   min-height: 100%;
 }
 
+.margin-bottom{
+  margin-bottom: 20px;
+}
+
 .hovereffect img {
   display: block;
   position: relative;
@@ -41,7 +45,7 @@ p{
 
 .portfolio-link-caption{
   position: absolute;
-  top: calc(50% - 24px);
+  top: calc(50% - 34px);
   margin-left:20px;
 }
 
