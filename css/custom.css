@@ -7,6 +7,69 @@ p{
   font-weight: 300;
 }
 
+/*formatting the portfolio preview links on the home page*/
+
+.portfolio-link{
+  background-color: #f2f2f2; 
+  /*background-image: url("../img/bio-img.jpg");*/
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.thumbnail {
+  border: 0 none;
+  box-shadow: none;
+  margin:0;
+  padding:0;
+}
+
+.thumbnail img{
+  min-height: 100%;
+}
+
+.margin-bottom{
+  margin-bottom: 20px;
+}
+
+.hovereffect img {
+  display: block;
+  position: relative;
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
+}
+
+.hovereffect:hover img {
+  filter: brightness(0.6);
+  -webkit-filter: brightness(0.6);
+}
+
+.portfolio-link-caption{
+  position: absolute;
+  top: calc(50% - 34px);
+  margin-left:20px;
+}
+
+.portfolio-link-caption .project-title{
+  color: #333333;
+}
+
+/*
+.portfolio-link-caption .project-title{
+  font-family: 'Cormorant Garamond', sans-serif; 
+  font-size: 180%; 
+  font-weight: 300;
+  letter-spacing: 0.5px;
+  color: #333333;
+}
+
+.portfolio-link-caption .project-subtitle{
+  font-family: 'Cormorant Garamond', sans-serif; 
+  font-size: 100%; 
+  font-weight: 300;
+  letter-spacing: 0px;
+  color: #bdbdbd;
+}
+*/
 .nav{
   font-family: 'Raleway', sans-serif; 
   font-size: 100%; 
@@ -17,11 +80,16 @@ p{
 .navbar-brand{
   font-family: 'Raleway', sans-serif; 
   font-size: 100%; 
+  font-weight: 300;
   letter-spacing: 1px;
 }
 
 .portfolio-header{
   background-color: #f2f2f2;
+}
+
+#portfolio{
+  /*background-color: #f2f2f2;*/
 }
 
 #process{
@@ -53,9 +121,6 @@ p{
 /*	background-color: #f2f2f2;
 */}
 
-#portfolio{
-  /*background-color: #f2f2f2;*/
-}
 
 #about {
   padding: 80px 0;
