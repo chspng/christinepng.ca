@@ -7,6 +7,10 @@ p{
   font-weight: 300;
 }
 
+p.small-lineheight{
+  line-height: 40%;
+}
+
 /*formatting the portfolio preview links on the home page*/
 
 .portfolio-link{
