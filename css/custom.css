@@ -2,6 +2,11 @@
 @import url(https://fonts.googleapis.com/css?family=Cormorant+Garamond:300);
 @import url(https://fonts.googleapis.com/css?family=Raleway:300);
 
+/*killing all the rounded corners*/
+* {
+  border-radius: 0px !important;
+}
+
 p{
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 300;
@@ -75,10 +80,6 @@ p.small-lineheight{
   background-color: #f2f2f2;
 }
 
-#portfolio{
-  /*background-color: #f2f2f2;*/
-}
-
 #process{
   background-color: #f2f2f2;
 }
@@ -88,20 +89,45 @@ p.small-lineheight{
 }
 
 #mrp{
-	background-color: #454545;
+	/*background-color: #454545;*/
+  background: #454545; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(white, #56A4B0); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(white, #56A4B0); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(white, #56A4B0); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(white, #56A4B0); /* Standard syntax */
+}
+
+#blog{
+  /*background-color: #f2f2f2;*/
+  background: white; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(white, #f2f2f2); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(white, #f2f2f2); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(white, #f2f2f2); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(white, #f2f2f2); /* Standard syntax */
+}
+
+#blog-body{
+  /*letter-spacing: 0.5px;*/
+  /*color: #bdbdbd;*/
+}
+
+#blog-link{
+  display:inline-block;
+  padding-left: 20px;
 }
 
 #mrp-header{
-	font-family: "Cormorant Garamond", sans-serif;	
-	font-size: 300%;
-  letter-spacing: 1px;
+	/*font-family: "Cormorant Garamond", sans-serif;	*/
+	
+  /*font-size: 300%;
+  letter-spacing: 1px;*/
 }
 
 #mrp-body{
-  font-family: "Cormorant Garamond", sans-serif;  
-  font-size: 150%;
-  letter-spacing: 0.5px;
-  color: #bdbdbd;
+  /*font-family: "Cormorant Garamond", sans-serif;  */
+  /*font-size: 150%;*/
+  /*letter-spacing: 0.5px;*/
+  /*color: #bdbdbd;*/
 }
 
 #foci{
