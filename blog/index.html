@@ -1,0 +1,28 @@
+---
+layout: blog
+title: Blog
+---
+
+<section>
+
+  
+  <div class="col-lg-6 col-lg-offset-3">
+    <h1 class="section-heading">Blog</h1>
+    <br>
+  </div>
+  
+
+{% for post in paginator.posts %}
+  <div class="col-lg-6 col-lg-offset-3">
+    <a class="blog-link post-title hovereffect" href="{{ post.url | prepend: site.baseurl }}">
+      <div class="post-link">
+        <h3>{{ post.title }}</h3>
+        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
+        <p>{{ post.description }}</p>
+      </div>
+    </a>
+  </div>
+
+{% endfor %}
+
+</section>
