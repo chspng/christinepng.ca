@@ -7,15 +7,21 @@
   {% include blog-nav.html %}
   {% include scripts.html %}
 
+<section>
+  <div class="col-lg-6 col-lg-offset-3">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </div>
+
  <div class="page-content">
       <div class="wrapper">
+			<div class="col-lg-6 col-lg-offset-3">
         
 				<div class="post">
 
-				  <header class="post-header">
-				    <h3 class="post-title">{{ page.title }}</h3>
+				  <div class="post-header">
+				    
 				    <p class="post-meta">{{ page.date | date: "%B %-d, %Y — %H:%M" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-				  </header>
+				  </div>
 
 				  <article class="post-content">
 				    {{ content }}
@@ -23,24 +29,13 @@
 
 				</div>
 
-				<div class="pagination">
-				  {% if paginator.previous_page %}
-				    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-				  {% else %}
-				    <span class="previous">Previous</span>
-				  {% endif %}
-				  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-				  {% if paginator.next_page %}
-				    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-				  {% else %}
-				    <span class="next ">Next</span>
-				  {% endif %}
-				</div>
-
+			</div>
 
       </div>
     </div>
+</section>
 </body>
+
 
 </html>
 
