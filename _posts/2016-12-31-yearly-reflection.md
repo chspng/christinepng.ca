@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Lessons from 2016 (1)
+title: Lessons from 2016 
 date: 2016-12-31 15:09:00
-description: Taking note of things I have learned over the past year
+description: Taking note of what I have learned over the past year
 ---
-<p>Over the past year, I've been fortunate to receive life advice from people older and wiser than me. Out of all the things I've learned, there are few lessons that have stayed with me, the first of which is this:
+<p>Over the past year, I've been fortunate to receive life advice from people older and wiser than me. Out of all the things I've been taught, there are few lessons that have stayed with me: how to stop overthinking and stick with a decision, how to set realistic goals and manage time effectively, how to ask for help and learn from other people. There's one lesson in particular that has been salient in my mind, and will continue to be in the coming months as I wrap up my Master's work: how to work hard. 
 
 <hr>
 
