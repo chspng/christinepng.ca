@@ -16,7 +16,7 @@ description: Taking note of what I have learned over the past year
 	Don't be afraid of hard work.
 </blockquote>
 
-<p>At the time, that what exactly what I needed to hear. I'm not doing this project because I think it will be easy. I know that it's going to be hard. I'm not doing this project only to have a pretty portfolio piece or to gain technical skills. Of course that's part of it, but more importantly I'm learning to choose what matters to me over what's easy for me. I'm learning to challenge myself in areas where I'm weak. I'm learning to embrace the discipline of hard work.
+<p>That was exactly what I needed to hear. I'm not doing this project because I think it will be easy. I know that it's going to be hard. I'm not doing this project only to have a pretty portfolio piece or to gain technical skills. Of course that's part of it, but more importantly I'm learning to choose what matters to me over what's easy for me. I'm learning to challenge myself in areas where I'm weak. I'm learning to embrace the discipline of hard work.
 
 <!-- <hr>
 
