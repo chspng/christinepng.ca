@@ -7,6 +7,13 @@
   border-radius: 0px !important;
 }
 
+blockquote{
+  font-family: "Cormorant Garamond", sans-serif;  
+  font-style: italic;
+  font-size: 130%;
+  color: grey;
+}
+
 .post-link{
   background:#f2f2f2;
   padding-left:20px;
