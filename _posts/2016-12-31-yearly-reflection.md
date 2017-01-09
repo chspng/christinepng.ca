@@ -2,7 +2,7 @@
 layout: post
 title: Lessons from 2016 
 date: 2016-12-31 15:09:00
-description: Taking note of what I have learned over the past year
+description: Learning to work hard
 ---
 <p>Over the past year, I've been fortunate to receive life advice from people older and wiser than me. Out of all the things I've been taught, there are few lessons that have stayed with me: how to stop overthinking and stick with a decision, how to set realistic goals and manage time effectively, how to ask for help and learn from other people. There's one lesson in particular that has been salient in my mind, and will continue to be in the coming months as I wrap up my Master's work: how to work hard. 
 
@@ -17,22 +17,3 @@ description: Taking note of what I have learned over the past year
 </blockquote>
 
 <p>That was exactly what I needed to hear. I'm not doing this project because I think it will be easy. I know that it's going to be hard. I'm not doing this project only to have a pretty portfolio piece or to gain technical skills. Of course that's part of it, but more importantly I'm learning to choose what matters to me over what's easy for me. I'm learning to challenge myself in areas where I'm weak. I'm learning to embrace the discipline of hard work.
-
-<!-- <hr>
-
-<p>The second major lesson came out of my tendency to overthink decisions. I want to collect all and weigh all the relevant data surrounding a choice before I make it. While this works in some situations, One of my strengths is careful planning and organization, I am very good at planning and being organized. When making choices, I consider and weigh all possible outcomes. This is good  
-
-<blockquote>
-	Make a choice and stick with it.
-</blockquote>
-
-<hr>
-
-<p>Finally, one of the meaningful books I read this year was <i>The Road to Character</i>, by David Brooks. I read it because I was trying to articulate who I wanted to be. I'm at a stage in my life where I'm looking to start a career, and with that comes dreams of what my professional life will be. What kind of job will I seek? What kind of work will I do? How will weigh the factors in this choice? Will I aim for well-paid and prestigious positions? Will I focus on work that I find meaningful and does good in the world? What kind of life will I seek?
-
-<blockquote>
-	Nothing that is worth doing can be achieved in our lifetime; therefore we must be saved by hope. Nothing which is true or beautiful or good makes complete sense in any immediate context of history; therefore we must be saved by faith. Nothing we do, however virtuous, can be accomplished alone; therefore we must be saved by love. No virtuous act is quite as virtuous from the standpoint of our friend or foe as it is from our standpoint. Therefore we must be saved by the final form of love which is forgiveness.
-
-	- Reinhold Niebuhr
-</blockquote>
- -->
