@@ -47,6 +47,12 @@ a.blog-link:active{
   padding-bottom: 0px;
 }
 
+ol{
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 300;
+  font-size: 115%;
+}
+
 p{
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 300;
