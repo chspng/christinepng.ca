@@ -6,7 +6,7 @@ baseurl:  # the subpath of your site, e.g. /blog/
 url: http://christinepng.ca  # the base hostname & protocol for your site
 portfolio: http://christinepng.ca/#portfolio
 
-linkedin_username: 
+linkedin_username: christinepng
 github_username:
 
 paginate: 15
