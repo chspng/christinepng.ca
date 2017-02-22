@@ -218,6 +218,16 @@ p.small-lineheight{
   color:white;
 }
 
+.header-bg{
+  background: -webkit-linear-gradient( to top, white, #959595);
+    background: -moz-linear-gradient( to top, white, #959595);
+    background: -ms-linear-gradient( to top, white, #959595);
+    background: -o-linear-gradient( to top, white, #959595);
+    background: linear-gradient( to top, white, #959595);
+
+  margin-bottom: 100px;
+}
+
 /*.service-box{
 	padding-left: 0px;
 	padding-right: 0px;
