@@ -214,6 +214,10 @@ p.small-lineheight{
   width: 90%;
 }
 
+.enter-link{
+  color:white;
+}
+
 /*.service-box{
 	padding-left: 0px;
 	padding-right: 0px;
