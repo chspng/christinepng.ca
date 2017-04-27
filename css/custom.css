@@ -14,6 +14,32 @@ blockquote{
   color: grey;
 }
 
+.btn-default{
+  font-family: "Source+Sans+Pro", sans-serif;
+  letter-spacing: 2px;
+}
+
+.btn.outline {
+  background: none;
+  padding: 12px 22px;
+}
+
+.btn-default.outline {
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+.btn-default.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open > .dropdown-toggle.btn-primary {
+  color: #fff;
+  border-color: #fff;
+}
+
+.btn-default.outline:active, .btn-primary.outline.active {
+  border-color: #fff;
+  color: #fff;
+  box-shadow: none;
+}
+
 .post-link{
   background:#f2f2f2;
   padding-left:20px;
