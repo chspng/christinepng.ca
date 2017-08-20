@@ -1,30 +1,22 @@
-<header>
-	<link href="https://fonts.googleapis.com/css?family=Raleway:700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Raleway:100" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200" rel="stylesheet">
-    <div class="header-content">
-        <div class="header-content-inner" >
-            <h1 class="display-1" style="font-family: 'Raleway', sans-serif; letter-spacing: 3px; color:white">Christine P'ng</h1>
-            <!-- <hr> -->
-            <br>
-            <p style="color:white; font-weight: 200">Information designer, programmer, and storyteller</p>
-            
-            <!-- <a href="#portfolio" class="page-scroll"><i class="fa fa-3x fa-arrow-down enter-link"></i></a> -->
-            
-            <a href="#" class="btn btn-lg btn-default outline" style="font-family: 'Raleway', sans-serif; letter-spacing: 3px; color:white; font-weight: 100;" role="button">coming soon</a>
+<header class="site-header">
 
-            <div class="vertical_space"></div>
+  <div class="wrapper">
 
+    <nav class="site-nav">
 
-            <div class="row ">
-               <div class="col-md-4 col-md-offset-4 text-center ">  
-                        <a class="inline_block" href="mailto:{{ site.email }}"><i class="fa fa-envelope-o fa-2x social-roll" style="color:white"></i></a> 
-                        <a class="inline_block" href="https://linkedin.com/in/{{ site.linkedin_username }}"><i class="fa fa-linkedin fa-2x social-roll" style="color:white"></i></a> 
-                        
-                 </div>
-            </div>
+      <div class="trigger">
+        <!-- {{ site.title }} instead of blog -->
+        <a class="page-link" href="{{ site.baseurl }}/">Home</a>
 
-            
-        </div>
-    </div>
+        {% for page in site.pages %}
+          {% if page.title %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+
+      </div>
+    </nav>
+
+  </div>
+
 </header>

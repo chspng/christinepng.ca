@@ -1,14 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: default
+---
+<div class="post">
 
-{% include head.html %}
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <h5 class="post-description">{{ page.description }}</h5>
+  </header>
 
-<body id="page-top">
-  {% include work-nav.html %}
-  {% include work-header.html %}
-  {% include work-full.html %}
-  {% include work-process.html %}
-  {% include scripts.html %}
-</body>
+  <article class="post-content">
+    {{ content }}
+  </article>
 
-</html>
+</div>
