@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make PubMed Human Again
+title: PubMed Redesign
 description: A user experience redesign project
 img: img/pubmed.png
 author: Christine P'ng
