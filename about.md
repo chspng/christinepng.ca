@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
+
 <img class="col three left" src="/img/profile_smaller.jpg">
 
-<br/>
+
 My name is Christine, and I’m a designer. I love thinking about how people perceive visuals. I happily spend my time developing media for positive user experiences. What I really care about is conveying information in ways that are both accurate and visually compelling. In particular, I’m excited to do this by creating data visualizations. Together with doing information and UX design, I think deeply about how to engage people through narrative.
 
 My training has been in life sciences, computer science, and art & design. I recently completed my graduate studies in Biomedical Communications at the <a href="https://bmc.med.utoronto.ca/bmc/">University of Toronto</a>. I'm currently the Information Design Lead at <a href="https://www.cancercare.on.ca/">CCO</a>.
