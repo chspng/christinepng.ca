@@ -257,6 +257,7 @@ display: block;
 .blankbox{
 background: $theme-color;
 }
+
 .img_row{
 height: $img_height;
 width: 100%;
@@ -264,6 +265,8 @@ overflow: hidden;
 box-sizing:border-box;
 padding: $img_spacing;
 }
+
+/* formatting for solo image with non-zero margins */
 .img_full{
 height: 100%;
 width: 100%;
@@ -273,6 +276,20 @@ padding-left: $img_spacing_large;
 padding-right: $img_spacing_large;
 padding-top: $img_spacing;
 padding-bottom: $img_spacing;
+}
+
+@media (max-width: 768px){
+    .img_full{
+        padding-left: $img_spacing_med;
+        padding-right: $img_spacing_med;
+    } 
+}
+
+@media (max-width: 480px){
+    .img_full{
+        padding-left: 0px;
+        padding-right: 0px;
+    } 
 }
 
 .img_full_row{
