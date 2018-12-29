@@ -18,4 +18,4 @@ I designed it as a tool to aid marketers develop screening campaigns. The projec
 </div>
 
 
-<!--The final project can be accessed <a href="http://bmc1.utm.utoronto.ca/~christine/cco/2017-04-20/">here</a>.-->
+The final project can be accessed <a href="http://bmc1.utm.utoronto.ca/~christine/cco/2017-04-20/">here</a>.
