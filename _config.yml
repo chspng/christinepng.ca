@@ -1,11 +1,11 @@
 # Site settings
-title: Christine P'ng
+title: Christine P'ng | Information Design + Biomedical Communication
 email: christine.png@mail.utoronto.ca
 description: > # this means to ignore newlines until "baseurl:"
-  Information designer
+  Information Design + Biomedical Communication
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
-twitter_username: twitter_username
+twitter_username: _christinepng
 github_username:  github_username
 
 # Build settings
