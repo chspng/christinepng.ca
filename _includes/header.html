@@ -7,12 +7,11 @@
         <!-- {{ site.title }} instead of blog -->
 
         <span class="nav-home">
-          <a class="logo-link page-link" href="{{ site.baseurl }}/">CP</a>
+          <a class="logo-link page-link" href="{{ site.baseurl }}/">Christine P'ng</a>
         </span>
 
         <span class="nav-links">
-        <a class="page-link" href="{{ /about/ | prepend: site.baseurl }}">{{ Test }}</a>
-        <!-- COMMENTING OUT THIS SECTION WHICH ADDS THE 'ABOUT' PAGE AND ANY OTHER PAGES THAT EXIST -->
+        
         {% for page in site.pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
