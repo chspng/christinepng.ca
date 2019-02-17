@@ -17,4 +17,4 @@ permalink: /services/
 
 <hr>
 <br>
-<p>To learn more about how we can work together, <a href="">get in touch</a>.
+<p>To learn more about how we can work together, <a href="{{ site.baseurl }}/contact/">get in touch</a>.
