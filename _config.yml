@@ -10,6 +10,8 @@ github_username:  github_username
 
 # Build settings
 markdown: kramdown
+plugins_dir: 
+  - jekyll-seo-tag
 
 highlighter: rouge
 
