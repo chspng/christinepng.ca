@@ -24,8 +24,34 @@ text-decoration: none;
 color: $theme-color;
     }
 }
-.site-nav {
+
+.nav-home {
 float: left;
+font-size: 25px;
+font-weight: bold;
+    color: #666;
+    text-decoration: none;
+    
+    &:hover {
+        color: #222;
+        text-decoration: none;
+    }
+}
+
+.nav-links {
+    float: right;
+    text-transform: capitalize;
+    font-weight: light;
+    color: #666;
+    text-decoration: none;
+        
+    &:hover {
+        color: #222;
+        text-decoration: none;
+    }
+}
+
+.site-nav {
 line-height: $nav-height;
 .page-link{
 line-height: $base-line-height;
@@ -57,19 +83,29 @@ display: line;
     display: block;
     opacity: 0.75;
     width: 100%;
-    text-align: left;
+    text-align: center;
     padding-top: 25px;
     line-height: 3em;
     z-index: 25;
     h1{
-        color: $theme-color;
+        color: #000;
         font-size:75px;
+        font-weight: bold;
     }
     h2{
-        font-size:25px;
+        color: #444;
+        font-size:16px;
+        text-transform: uppercase;
+        margin-top: 5px; 
+        font-weight: normal;
     }
     p{
+        margin-top: 20px; 
         line-height: 20px;
+        font-size: 16px;
+    }
+    a{
+        color: $theme-color;
     }
     
 }
@@ -324,6 +360,17 @@ width: 66.66%;
 }
 .three{
 width: 100%;
+}
+.img-circle{
+    border-radius: 50%;
+    width:auto;
+    max-height:300px;
+    margin: $img_spacing +30px;
+}
+.profile-img{
+    margin-right:20px;
+    width:auto;
+    max-height:500px;
 }
 .caption{
 height: 100%;

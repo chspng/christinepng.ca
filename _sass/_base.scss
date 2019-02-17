@@ -32,16 +32,14 @@ $blue: #2698BA;
 $green: #11D68B;
 $lime_green: #B7D12A;
 $purple: #B509AC;
-$black: #000;
 
 
 $grey-color-dark: #333;   /* footer */
 $grey-color-light: #ddd;  /* navigation bar border */
 $text-color:     #666;
-$link-color:     #0380a3;
 
 /* Set theme color *************************/
-$theme-color:   $black;
+$theme-color:   $blue;
 
 
 /************************************************************/
@@ -126,7 +124,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $link-color;
+    color: $text-color;
     text-decoration: none;
     
     /*
@@ -136,20 +134,7 @@ a {
     */
     
     &:hover {
-        /*
         color: $theme-color;
-        */
-        text-decoration: underline;
-    }   
-}
-
-.logo-link{
-    font-weight: bold;
-    color: #666;
-    text-decoration: none;
-    
-    &:hover {
-        color: #222;
         text-decoration: none;
     }
 }
