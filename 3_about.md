@@ -4,25 +4,22 @@ title: About
 permalink: /about/
 ---
 <div>
-	<img class="col three img-circle" src="/img/profile_square.jpg">
+	<img class="col one profile-img" src="/img/profile_2_long.jpg">
 </div>
 <h1 style="font-weight: bold">My name is Christine, and I’m a designer. </h1>
 <p>
-<p >My name is Christine, and I’m a designer. I love thinking about how people perceive visuals. What I really care about is conveying information in ways that are both accurate and visually compelling. In particular, I’m excited to do this by creating data visualizations. 
+<p >What I really care about is conveying information in ways that are both accurate and visually compelling. In particular, I’m excited to do this by creating data visualizations. 
 
-<p>I'm currently the Information Design Lead at <a href="https://www.ccohealth.ca/en" >Cancer Care Ontario</a>, where I work across analytics teams to create effective and efficient visualizations for the healthcare system. In addition to creating my own designs, I give lectures and workshops on data visualization, and develop templates and guidelines to help others create visuals.
+<p>I also teach data visualization and design by giving workshops and lecture for both corporate and academic settings.
 
-<p>I've explored a range of methods for visually communicating information. During my Masters of Science in Biomedical Communications at the <a href="https://bmc.med.utoronto.ca/bmc/" >University of Toronto</a>, I used everything from carbon dust illustrations to web-based narratives to convey information for a range of projects, from medical legal cases to surgical procedures to scientific findings. Regardless of medium, my focus remains on finding ways to clearly and effectively communicate information to my audience.   
+<p>I'm currently the Information Design Manager at <a href="https://www.ccohealth.ca/en" >Cancer Care Ontario</a>, where I work across analytics teams to create effective and expressive visualizations for the healthcare system.
+During my Masters of Science in Biomedical Communications at the <a href="https://bmc.med.utoronto.ca/bmc/">University of Toronto</a> I learned to use a range of visual techniques, but regardless of medium, my goal remains to communicate information clearly and effectively to my audience.   
+
 
 <p>If you have an infomation or biomedical visualization challenge to solve, or are looking for someone to speak or teach on information design, <a href="mailto:christine.png@mail.utoronto.ca" >send me a message</a> and I'll be in touch!</p>
 
-<div style="margin-left: 10px; font-size: 15px">
-    <p>I create information graphics to solve visual storytelling and communication challenges. Whether that means creating a data visualization, illustration, slide design, or other format, the goal is to find the best way to convey information. 
+<p> 
 
-	<p>I also teach data visualization and design by giving workshops and lecture for both corporate and academic settings.
-
-	</p><p>If you have an infomation or biomedical visualization challenge to solve, or are looking for someone to speak or teach on information design, <a href="mailto:christine.png@mail.utoronto.ca">send me a message</a> and I'll be in touch!</p>
-    </div>
 
 <br/>
 <hr/>
