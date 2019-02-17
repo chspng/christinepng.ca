@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anthracycline
+title: Anthracycline Mechanism of Action
 description: Presentation slide design to illustration cellular process
 img: /img/anth.jpg
 author: Christine P'ng
