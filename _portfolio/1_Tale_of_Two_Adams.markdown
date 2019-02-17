@@ -2,7 +2,7 @@
 layout: post
 title: Tale of Two Adams
 description: A narrative data visualization on homelessness and health
-img: img/mrp.jpg
+img: /img/mrp.jpg
 author: Christine P'ng
 ---
 

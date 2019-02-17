@@ -2,7 +2,7 @@
 layout: post
 title: Scientific Illustrations
 description: Accurate and engaging depictions of medical and scientific topics
-img: img/footbones.jpg
+img: /img/footbones.jpg
 author: Christine P'ng
 ---
 
@@ -21,15 +21,13 @@ One of the first projects I created was a carbon dust drawing of the bones of th
 </div>
 
 <br><br><br>
-I also explored a range of rendering styles, including one of my favourites: cell-shading. This presentation slide was created to illustrate one of the proposed mechanisms of action of Anthracycline, a breast cancer drug. It was created under the guidance of Professor Michael Corrin at the University of Toronto, and in collaboration with Dr. Marsela Braunstein at the Ontario Institute of Cancer Research. 
-
-The design of this project focused on developing a visually engaging story with minimal textual components, in order to keep an audience focused on the presenter's explanation, rather than the slide.
+Line art is another common visual approach for conveying form, which I used to distinguish the many muscles, tendons, nerves, and blood vessels found in the superficial palm. 
 
 <div class="img_full_row">
-	<img class="col three" src="{{ site.baseurl }}/img/final/anth3d.jpg" alt="Cell-shaded depiction of cancer cells being attacked by anthracycline" title="Anthracycline proposed mechanism of action"/>
+	<img class="col three" src="{{ site.baseurl }}/img/final/supficialpalm.png" alt="Line drawing of the superficial palm" title="Line drawing of the superficial palm"/>
 </div>
 <div class="col three caption">
-	Illustration of a proposed mechanism of action for Anthracycline, by Christine P'ng
+	Superficial Palm, by Christine P'ng
 </div>
 
 <br><br><br>

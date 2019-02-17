@@ -2,7 +2,7 @@
 layout: post
 title: Screening Stats
 description: An interactive data visualization of cancer screening statistics in Ontario
-img: img/cco_tabs.png
+img: /img/cco_tabs.png
 author: Christine P'ng
 ---
 

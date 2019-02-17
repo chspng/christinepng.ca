@@ -2,7 +2,7 @@
 layout: post
 title: Journal Figures
 description: Visual representations of scientific processes for journal publications
-img: img/anth2d.jpg
+img: /img/anth2d.jpg
 author: Christine P'ng
 ---
 

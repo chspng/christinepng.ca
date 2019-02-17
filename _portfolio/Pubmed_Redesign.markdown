@@ -2,7 +2,7 @@
 layout: post
 title: PubMed Redesign
 description: A user experience redesign project
-img: img/pubmed.png
+img: /img/pubmed.png
 author: Christine P'ng
 ---
 

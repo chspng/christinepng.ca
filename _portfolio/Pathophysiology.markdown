@@ -2,7 +2,7 @@
 layout: post
 title: Myocardial Infarction
 description: Illustration of the pathophysiology of a heart attack
-img: img/mi.jpg
+img: /img/mi.jpg
 author: Christine P'ng
 ---
 
