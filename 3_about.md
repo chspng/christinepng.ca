@@ -16,7 +16,7 @@ permalink: /about/
 During my Masters of Science in Biomedical Communications at the <a href="https://bmc.med.utoronto.ca/bmc/">University of Toronto</a> I learned to use a range of visual techniques, but regardless of medium, my goal remains to communicate information clearly and effectively to my audience.   
 
 
-<p>If you have an infomation or biomedical visualization challenge to solve, or are looking for someone to speak or teach on information design, <a href="{{ site.baseurl }}/contact/">send me a message</a> and I'll be in touch!</p>
+<p>If you have an information or biomedical visualization challenge to solve, or are looking for someone to speak or teach on information design, <a href="{{ site.baseurl }}/contact/">send me a message</a> and I'll be in touch!</p>
 
 <p> 
 
