@@ -31,4 +31,4 @@ I initially envisioned a project that described the relationship between homeles
 	Tale of Two Adams, by Christine P'ng
 </div>
 
-The final project can be viewed at <a href="http://taleoftwoadams.com">taleoftwoadams.com</a>
+The final project can be viewed <a href="https://bmc1.utm.utoronto.ca/~christine/taleoftwoadams/">here</a>
