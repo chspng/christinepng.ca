@@ -9,9 +9,9 @@ permalink: /about/
 
 <h1 style="font-weight: bold">My name is Christine, and I’m a designer. </h1>
 <p>
-<p >What I really care about is conveying information in ways that are both accurate and visually compelling. In particular, I’m excited to do this by creating data visualizations. 
+<p >I care about conveying information in ways that are both accurate and visually compelling. In particular, I’m excited to do this by creating data visualizations. 
 
-<p>I also teach data visualization and design by giving workshops and lecture for both corporate and academic settings.
+<p>I also teach data visualization and design by giving workshops and lecture in both corporate and academic settings.
 
 <p>I'm currently the Senior Information Design Lead at the <a href="https://www.otpp.com/">Ontario Teachers' Pension Plan</a>, where I work across the organization to create effective and expressive visualizations.
 Previously I was the information designer at <a href="https://www.ontariohealth.ca/">Ontario Health</a>, focusing on improve data communication across the healthcare system. During my Masters of Science in Biomedical Communications at the <a href="https://bmc.med.utoronto.ca/bmc/">University of Toronto</a> I learned to use a range of visual techniques, but regardless of medium, my goal remains to communicate information clearly and effectively to my audience.   
